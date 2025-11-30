@@ -228,5 +228,3 @@ Developed for iris-based personality profiling research.
 **API Version:** 1.0.0
 **Python Version:** 3.11+
 
-
- 
